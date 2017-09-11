@@ -67,8 +67,8 @@ return {
     description = "See link of a group and groups list",
     usage = "!link ID && !groups",
     advan = {
-    	"Created by: @janlou",
-    	"Powered by: @AdvanTM",
+    	"Created by: @Martin_Gol",
+    	
     	"CopyRight all right reserved",
     },
 patterns = {
